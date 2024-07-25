@@ -1,4 +1,4 @@
-# Welcome to Project 2
+# Welcome to Project 1
 ## About this Project:
 This is responsive landing page about Donations.
 Tools and tech i have used:
