@@ -1,9 +1,9 @@
-# Welcome to Project 1
+# Welcome to Project 2
 ## About this Project:
 This is responsive landing page about Donations.
 Tools and tech i have used:
--HTML5
--CSS3
--SASS
+- HTML5
+- CSS3
+- SASS
 
 Thank for visiting my Profile.
